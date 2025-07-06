@@ -9,6 +9,7 @@ LAS is a Learning Assembly. The language was created in learning purposes. It's 
 
 ## Installation
 
+### macOS
 1. Run the following command
 ```sh
 git clone https://github.com/ja-proger/LAS
