@@ -5,11 +5,16 @@ LAS is a Learning Assembly. The language was created in learning purposes. It's 
 
 ### Authorship
 
-### License itself
-
 ### Usage Policy
 
 ## Installation
+
+1. Run the following command
+```sh
+git clone 
+cd LAS
+sh build.sh
+```
 
 ## Usage
 
