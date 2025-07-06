@@ -11,11 +11,12 @@ LAS is a Learning Assembly. The language was created in learning purposes. It's 
 
 1. Run the following command
 ```sh
-git clone 
+git clone https://github.com/ja-proger/LAS
 cd LAS
 sh build.sh
 ```
 
 ## Usage
+
 
 ## Overview
